@@ -1,5 +1,8 @@
 # A demo album management API using Gin
 
+[![test](https://github.com/guozheng/go-albums/workflows/build/badge.svg?branch=main)](https://github.com/guozheng/go-albums/actions)
+[![Coverage Status](https://coveralls.io/repos/github/guozheng/go-albums/badge.svg)](https://coveralls.io/github/guozheng/go-albums)
+
 The code is based on Golang tutorial [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin).
 
 ## APIs
