@@ -1,5 +1,4 @@
-# go-albums
-A demo album management API using Gin
+# A demo album management API using Gin
 
 The code is based on Golang tutorial [Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin).
 
